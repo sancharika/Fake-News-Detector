@@ -13,7 +13,7 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pickle
 
-df = pd.read_csv('fake_or_real_news.csv')
+df = pd.read_csv('train.csv')
 df.head()
 df = df.fillna(' ')
 df.label = df.label.astype(str)
