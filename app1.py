@@ -36,7 +36,12 @@ def predict():
     news = article.summary
     #Passing the news article to the model and returing whether it is Fake or Real
     pred = model.predict([news])
-    return render_template('main.html', prediction_text='The news is "{}"'.format(pred[0]))
+    if pred[0]==0:
+        ypred='FAKE'
+    else:
+        ypred='REAL'
+    
+    return render_template('main.html', prediction_text='The news is "{}"'.format(ypred))
     
 if __name__=="__main__":
     port=int(os.environ.get('PORT',5000))
