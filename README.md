@@ -37,22 +37,22 @@ requirements.txt -> Required Libraries
 # Getting started
 
 #### For installation of the required libraries 
-	```
-	python3 -m pip install -r requirements.txt
-	```
+```
+python3 -m pip install -r requirements.txt
+```
 #### Create the machine learning model
-	```
-	python3 fake1.py
-	```
+```
+python3 fake1.py
+```
 #### Start the FLask API
-	```
-	python3 app1.py
-	```
+```
+python3 app1.py
+```
 #### Navigate to the URL 
 By default, flask will run on port 5000.
-	```
-	http://127.0.0.1:5000
-	```
+```
+http://127.0.0.1:5000
+```
 <img src="image/fake.gif">
 <img src="image/real.gif">
 
