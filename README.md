@@ -2,8 +2,11 @@
 
 
 # Introduction
-The problem statement of the project is to develop a **FAKE NEWS DETECTION SYSTEM** using natural language processing and 
-Passive Aggressive Classifier, and its accuracy is tested using different machine learning algorithms (_94.16%_) . Detection of false news articles will solve obstacles, the chaos created by fake news. The project uses different widely used machine learning methods (_Logistic Regression, Naive Bayes, Decision Tree, Passive Aggressive Classifier_) and give a response telling the user about the credibility of that news.
+The problem statement of the project is to develop a **FAKE NEWS DETECTION SYSTEM** using natural language processing and Passive Aggressive Classifier, and its accuracy is tested using different machine learning algorithms (_94.16%_) . Detection of false news articles will solve obstacles, the chaos created by fake news. The project uses different widely used machine learning methods (_Logistic Regression, Naive Bayes, Decision Tree, Passive Aggressive Classifier_) and give a response telling the user about the credibility of that news.
+
+# Project Description
+### Fake News detector 
+The problem statement of the project is to develop a FAKE NEWS DETECTION SYSTEM using natural language processing and Passive Aggressive Classifier, and its accuracy obtained is around _94.16%_ . The algorithm is able to detect fake news in a given scenario. Detecting false reports using machine learning and natural language processing will solve the obstacle, chaos, and confusion created by it. Fake news is spread all over the world. By using false news detector API, people will be able to decide whether to believe and rely on that particular news or not. The project will be a machine learning workflow that will take the news articles as input and classify whether it's fake or not. The workflow will include Passive Aggressive Classifier and NLP algorithms for better performances of the model.
 
 # Dataset
  Dataset was taken from kaggle competition - [Fake News](https://www.kaggle.com/c/fake-news/data)
