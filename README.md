@@ -2,7 +2,7 @@
 
 
 # Introduction
-The problem statement of the project is to develop a **FAKE NEWS DETECTION SYSTEM** using natural language processing and Passive Aggressive Classifier, and its accuracy is tested using different machine learning algorithms (_94.16%_) . Detection of false news articles will solve obstacles, the chaos created by fake news. The project uses different widely used machine learning methods (_Logistic Regression, Naive Bayes, Decision Tree, Passive Aggressive Classifier_) and give a response telling the user about the credibility of that news.
+The problem statement of the project is to develop a **FAKE NEWS DETECTION SYSTEM** using natural language processing and Passive Aggressive Classifier, and its accuracy is tested using different machine learning algorithms (_94.16%_) . Detection of false news articles will solve obstacles, the chaos created by fake news. The project uses different widely used machine learning methods (_Logistic Regression, Naïve Bayes, Decision Tree, Passive Aggressive Classifier_) and give a response telling the user about the credibility of that news.
 
 # Project Description
 ### Fake News detector 
